@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\bin\Debug\net7.0\Task01_MaxRandom.exe
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\bin\Debug\net7.0\Task01_MaxRandom.deps.json
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\bin\Debug\net7.0\Task01_MaxRandom.runtimeconfig.json
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\bin\Debug\net7.0\Task01_MaxRandom.dll
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\bin\Debug\net7.0\Task01_MaxRandom.pdb
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\Task01_MaxRandom.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\Task01_MaxRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\Task01_MaxRandom.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\Task01_MaxRandom.AssemblyInfo.cs
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\Task01_MaxRandom.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\Task01_MaxRandom.dll
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\refint\Task01_MaxRandom.dll
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\Task01_MaxRandom.pdb
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\Task01_MaxRandom.genruntimeconfig.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem2\Task01_MaxRandom\obj\Debug\net7.0\ref\Task01_MaxRandom.dll

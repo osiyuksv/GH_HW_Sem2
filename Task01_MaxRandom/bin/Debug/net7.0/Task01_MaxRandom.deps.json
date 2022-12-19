@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task01_MaxRandom/1.0.0": {
+        "runtime": {
+          "Task01_MaxRandom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task01_MaxRandom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
